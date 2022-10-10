@@ -1,0 +1,145 @@
+.body {
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+    font-weight: 700;
+    line-height: 31%;
+    text-decoration: none;
+    color: #000000;
+    font-size: 26px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.button_index {
+    cursor: pointer;
+    list-style-type: none;
+    background-color: #2196F3; 
+}
+
+.header_nav_ul_li {
+    font-weight: 500;
+    line-height: 16%;
+    font-size: 14px;
+    color: #212121;
+}
+
+.header_nav_ul_li:hover {
+    color: #2196F3;
+}
+
+.header_nav_ul_li:focus {
+    color: #2196F3;
+}
+
+.header_contact {
+    font-weight: 500;
+    line-height: 16%;
+    color: #757575;
+    font-size: 14px;
+}
+
+.header_contact:hover {
+    color: #2196F3;
+}
+
+.header_contact:focus {
+    color: #2196F3;
+}
+
+.main_section1_h1 {
+    font-weight: 900;
+    color: #FFFFFF;
+    line-height: 120%;
+    font-size: 44px;
+}
+
+.section2_ul_li_h3 {
+    font-weight: 700;
+    color: #212121;
+    line-height: 16%;
+    font-size: 14px;
+}
+
+.section2_ul_li_p {
+    font-weight: 400;
+    color: #757575;
+    line-height: 75%;
+    font-size: 14px;
+}
+
+.section3_h2 {
+    font-weight: 700;
+    color: #212121;
+    line-height: 42%;
+    font-size: 36px;
+}
+
+.section4_h2 {
+    font-weight: 700;
+    color: #212121;
+    line-height: 42%;
+    font-size: 36px;
+}
+
+.section4_h3 {
+    font-weight: 500;
+    color: #212121;
+    line-height: 19%;
+    font-size: 16px;
+}
+
+.section4_p {
+    font-weight: 400;
+    color: #757575;
+    line-height: 19%;
+    font-size: 16px;
+}
+
+.section_ul {
+    list-style-type: none;
+}
+
+.button_portfolio {
+    cursor: pointer;
+    list-style-type: none;
+    background-color: #F5F4FA;
+}
+
+.button_portfolio:hover {
+    background-color: #2196F3;
+}
+
+.button_portfolio:focus {
+    background-color: #2196F3;
+}
+
+.footer_contact {
+    font-weight: 400;
+    line-height: 21%;
+    font-size: 14px;
+    color: #FFFFFF60;
+}
+
+.footer_contact:hover {
+    color: #2196F3;
+}
+
+.footer_contact:focus {
+    color: #2196F3;
+}
+
+.portfolio_h3 {
+    font-weight: 700;
+    color: #212121;
+    line-height: 36%;
+    font-size: 18px;
+}
+
+.portfolio_p {
+    font-weight: 400;
+    color: #757575;
+    line-height: 30%;
+    font-size: 16px;
+}
